@@ -1,0 +1,2 @@
+# BirthdayPartyRefactory
+Refactoring exercise
